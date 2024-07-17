@@ -6,6 +6,7 @@
         <div>
             <div>
                 <h1>Pagina Membro 1 - Sara Kozoski</h1>
+                <p>começei</p>
             </div>
             <nav>
                 <RouterLink to="/">Home</RouterLink>
