@@ -12,7 +12,7 @@
       <nav>
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/membro1">Membro1</RouterLink>
-        <RouterLink to="/membro2">Membro2</RouterLink>
+        <RouterLink to="/Francisco">Francisco</RouterLink>
         <RouterLink to="/membro3">Membro3</RouterLink>
         <RouterLink to="/membro4">Membro4</RouterLink>
         <RouterLink to="/membro5">Membro5</RouterLink>
