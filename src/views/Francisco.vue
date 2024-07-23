@@ -5,7 +5,7 @@
     <header>
         <div>
             <div>
-                <h1>Pagina Membro 1 - Sara Kozoski</h1>
+                <h1></h1>
             </div>
             <nav>
                 <RouterLink to="/">Home</RouterLink>
