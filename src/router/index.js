@@ -16,7 +16,7 @@ const router = createRouter({
     },
     {
       path: '/membro2',
-      name: 'membro2',
+      name: 'Francisco Vargas',
       component: () => import('../views/PaginaMembro2.vue')
     },
     {

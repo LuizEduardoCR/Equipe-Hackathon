@@ -5,7 +5,7 @@
     <header>
         <div>
             <div>
-                <h1>Pagina Membro 1 - Sara Kozoski</h1>
+                <h1>Pagina Membro 2 - Francisco Vargas Neto</h1>
             </div>
             <nav>
                 <RouterLink to="/">Home</RouterLink>
@@ -19,6 +19,14 @@
             </nav>
         </div>
 
+
+        <main>
+            <h2>Óla eu sou Francisco Vargas Neto</h2>
+             <p>Tenho 17 anos, moro em Araquari SC, estou no segundo ano do ensino médio no Instituto Federal Catarinense.</p>
+                <p>Escolhi o curso técnico em informática para internet pois me indentifico muito com o curso e quero levar a área como minha profissão.</p>
+                <p>Atualmente não faço parte de nenhum projeto extracurricular. </p>
+             
+        </main>
     </header>
 
     <RouterView />
