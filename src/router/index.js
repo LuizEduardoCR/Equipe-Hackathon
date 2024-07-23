@@ -10,34 +10,34 @@ const router = createRouter({
       component: HomeView
     },
     {
-      path: '/membro1',
-      name: 'membro1',
-      component: () => import('../views/PaginaMembro1.vue')
+      path: '/Emili',
+      name: 'Emili',
+      component: () => import('../views/Emili.vue')
     },
     {
-      path: '/membro2',
-      name: 'membro2',
-      component: () => import('../views/PaginaMembro2.vue')
+      path: '/Francisco',
+      name: 'Francisco',
+      component: () => import('../views/Francisco.vue')
     },
     {
-      path: '/membro3',
-      name: 'membro3',
-      component: () => import('../views/PaginaMembro3.vue')
+      path: '/Heloisa',
+      name: 'Heloisa',
+      component: () => import('../views/Heloisa.vue')
     },
     {
-      path: '/membro4',
-      name: 'membro4',
-      component: () => import('../views/PaginaMembro4.vue')
+      path: '/Luiz',
+      name: 'Luiz',
+      component: () => import('../views/Luiz.vue')
     },
     {
-      path: '/membro5',
-      name: 'membro5',
-      component: () => import('../views/PaginaMembro5.vue')
+      path: '/Luna',
+      name: 'Luna',
+      component: () => import('../views/Luna.vue')
     },
     {
-      path: '/membro6',
-      name: 'membro6',
-      component: () => import('../views/PaginaMembro6.vue')
+      path: '/Sara',
+      name: 'Sara',
+      component: () => import('../views/Sara.vue')
     }
   ]
 })

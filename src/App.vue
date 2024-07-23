@@ -11,12 +11,12 @@
     
       <nav>
         <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/membro1">Membro1</RouterLink>
-        <RouterLink to="/membro2">Membro2</RouterLink>
-        <RouterLink to="/membro3">Membro3</RouterLink>
-        <RouterLink to="/membro4">Membro4</RouterLink>
-        <RouterLink to="/membro5">Membro5</RouterLink>
-        <RouterLink to="/membro6">Membro6</RouterLink>
+        <RouterLink to="/Emili">Emili</RouterLink>
+        <RouterLink to="/Francisco">Francisco</RouterLink>
+        <RouterLink to="/Heloisa">Heloisa</RouterLink>
+        <RouterLink to="/Luiz">Luiz Eduardo</RouterLink>
+        <RouterLink to="/Luna">Luna</RouterLink>
+        <RouterLink to="/Sara">Sara</RouterLink>
 
       </nav>
     </div>
